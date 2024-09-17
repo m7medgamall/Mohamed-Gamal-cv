@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - Mohamed Gamal El Sayed Bauomy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            direction: ltr;
+            text-align: left;
+            margin: 20px;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section-title {
+            font-weight: bold;
+            font-size: 1.5em;
+            margin-bottom: 10px;
+        }
+        .item {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Mohamed Gamal El Sayed Bauomy</h1>
+    <p>Phone: +201120427542 | Email: MohamedGamalElsayed1@gmail.com</p>
+
+    <div class="section">
+        <div class="section-title">Professional Summary</div>
+        <p>Dedicated engineering student with a solid foundation in communication and computer engineering. Proven ability to manage projects and increase sales through excellent customer service and professional demeanor.</p>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Education</div>
+        <p>Bachelor of Engineering, Communication and Computer Engineering Department, Mansoura University, Mansoura, Egypt</p>
+        <p>Graduation Year: 2025 | GPA: 2.86</p>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Experience</div>
+        <div class="item">
+            <h2>Trainee - Biomedical Company for Medical Devices (BMC)</h2>
+            <p>July 16, 2023 – August 16, 2023</p>
+            <p>Gained valuable experience in the use and maintenance of ventilators, defibrillators, anesthesia machines, and diathermy devices.</p>
+        </div>
+        <div class="item">
+            <h2>Sales Associate - Hassan Zard Store</h2>
+            <p>August 2019 – October 2022</p>
+            <p>Sold products in an excellent manner, increased sales by dealing with each customer uniquely and professionally, and managed daily accounts and inventory.</p>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Extracurricular Activities</div>
+        <div class="item">
+            <h2>PR/FR Member - Cat Reloaded</h2>
+            <p>December 2023 – Present</p>
+        </div>
+        <div class="item">
+            <h2>Media Member - Octware Team</h2>
+            <p>March 2023 – Present</p>
+        </div>
+        <div class="item">
+            <h2>Training Member - Hult Prize Competition</h2>
+            <p>February – March 2023</p>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Relevant Courses</div>
+        <ul>
+            <li>Ethical Hacking - Mahara-Tech Platform - May 25, 2024</li>
+            <li>Python Programming Basics - Mahara-Tech Platform - May 25, 2024</li>
+            <li>Introduction to Network Security - Mahara-Tech Platform - May 18, 2024</li>
+            <li>Project Management Course - UCCD, Faculty of Engineering - September 24–27, 2023</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <div class="section-title">Skills</div>
+        <ul>
+            <li>Good command of English</li>
+            <li>Proficient in Microsoft Office (Word, Excel, PowerPoint)</li>
+        </ul>
+    </div>
+</body>
+</html>
